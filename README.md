@@ -11,3 +11,5 @@ This is an Interactive website for kids with Dyspraxia and Dyslexia to help them
 - ![index page](/ss/s6.png)
 - ![index page](/ss/s7.png)
 - ![index page](/ss/s8.png)
+
+note: Github did help to put couple of games here.
