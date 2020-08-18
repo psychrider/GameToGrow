@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">      
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Sign Up g2g</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="style.css">     
+    </head>
+   <style>
+       .login{
+        margin: auto;
+        width: 40%;
+        position: absolute;
+        top: 15%;
+        left:30%;
+        -ms-transform: translateY(-50%,-50%);
+        transform: translateY(-50%,-50%);
+       }
+       .hero-image{
+        background-image: url("images/kids2.png");
+        background-color: #646464;
+        height:760px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+       }
+   </style>
+    <body class="hero-image">
+        <div class ="navbar navbar-default navbar-expand-sm" style="background: darkslateblue;">
+            <div class="navbar-header"><a class ="navbar-brand" style="color:black; margin-right: 0px;" href="index.html">GAME TO GROW</a></div>
+            <ul class = "nav navbar-nav pull-right ml-5" style="margin-left: 0px;">
+                <li class="" ><a class="nav-link"style="color:black; margin-right:25px" href="signup.html">SignUP</a></li>
+                <li class=""><a class="nav-link" style="color:black" href="about.html">About</a></li>
+            </ul>
+        </div>
+        <div class="login">
+                <form action="login.php" method="POST" style="opacity: 90%; border-radius: 10px; margin-bottom: 20px;">
+                    <label>
+                        <p class="label-txt">ENTER YOUR EMAIL</p>
+                        <input type="text" class="input" id = "email" name="email" required>
+                        <div class="line-box">
+                        <div class="line"></div>
+                        </div>
+                    </label>
+                    <label>
+                        <p class="label-txt">ENTER YOUR PASSWORD</p>
+                        <input type="password" class="input" id="password" name="password"required>
+                        <div class="line-box">
+                        <div class="line"></div>
+                        </div>
+                    </label>
+                    <label>
+                    <input type="submit" id="login" name="login" value="Log In">
+                </form>
+            </div>
+    </body>
+</html>
