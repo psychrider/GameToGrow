@@ -3,6 +3,7 @@ let time;
 let arena = [];
 let colors = ['blue','pink','yellow','orange','red','green','purple'];
 
+
 function setup() {
     createCanvas(240, 400);
     player = new Player();
