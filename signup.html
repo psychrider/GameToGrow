@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Sign Up g2g</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-        <link rel="stylesheet" href="style.css">     
+        <link rel="stylesheet" href="./style/style.css">     
     </head>
    <style>
        .signup{
@@ -18,7 +18,7 @@
         transform: translateY(-50%,-50%);
        }
        .hero-image{
-        background-image: url("images/kids2.png");
+        background-image: url("assets/images/kids2.png");
         background-color: #646464;
         height:760px;
         background-position: center;
@@ -36,7 +36,7 @@
             </ul>
         </div>
         <div class="signup">
-                <form action="signup.php" method="POST" style="opacity: 90%; border-radius: 10px;">
+                <form action="database/signup.php" method="POST" style="opacity: 90%; border-radius: 10px;">
                     <label>
                         <p class="label-txt">ENTER YOUR EMAIL</p>
                         <input type="text" class="input" id = "email" name="email" required>

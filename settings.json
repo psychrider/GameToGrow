@@ -1,0 +1,6 @@
+{
+    "dbserver" : "localhost",
+    "dbuser" :"shivam",
+    "dbpass" : "test@123",
+    "db":"kids_details"
+}

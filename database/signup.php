@@ -1,9 +1,10 @@
 <?php
 session_start();
+// read data from settings.json instead of hardcoding them
     $_SESSION['message']='';
     $dbserver = "localhost";
     $dbuser = "shivam";
-    $dbpass = "fuckubitch";
+    $dbpass = "";
     $db="kids_details";
     $progress = 0;
     $g11 = $g12 =$g13 =$g21 =$g22 =$g23 =0;

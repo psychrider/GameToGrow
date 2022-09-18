@@ -9,16 +9,16 @@ And a chrome extension to help Dyslexic people read websites better.
 - php
 - CSS3
 ### Instances from working project-
-- ![index page](/ss/s1.png)
-- ![index page](/ss/s4.png)
-- ![index page](/ss/s3.png)
-- ![index page](/ss/s5.png)
-- ![index page](/ss/s0.png)
-- ![index page](/ss/s11.png)
-- ![index page](/ss/s10.png)
-- ![index page](/ss/s6.png)
-- ![index page](/ss/s7.png)
-- ![index page](/ss/s8.png)
-- ![index page](/ss/s12.png)
+- ![index page](/assets/ss/s1.png)
+- ![index page](/assets/ss/s4.png)
+- ![index page](/assets/ss/s3.png)
+- ![index page](/assets/ss/s5.png)
+- ![index page](/assets/ss/s0.png)
+- ![index page](/assets/ss/s11.png)
+- ![index page](/assets/ss/s10.png)
+- ![index page](/assets/ss/s6.png)
+- ![index page](/assets/ss/s7.png)
+- ![index page](/assets/ss/s8.png)
+- ![index page](/assets/ss/s12.png)
 
 note: Github did help to put couple of games here.
